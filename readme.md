@@ -38,10 +38,10 @@ The tests will be executed in headless mode, and the test results will be displa
 
 If you prefer to run the tests in Cypress's interactive mode, use the command: `npx cypress open`
 
-### Personal Note
+## Personal Note
 
-I spent quite a bit of time just trying to debug my selenium java on my machine so i opted to use cypress as i was more familiar with it.
-I did not finish the test where it is supposed to filter from 100000 to 30000000
-I did not finish the test where it is supposed to be sorted by lowest price
-I did not finish the test where it is suppposed to grab all the items on the first 3 pages and print it out on the console
+1. I spent quite a bit of time just trying to debug my selenium java on my machine so i opted to use cypress as i was more familiar with it.
+2. I did not finish the test where it is supposed to filter from 100000 to 30000000
+3. I did not finish the test where it is supposed to be sorted by lowest price
+4. I did not finish the test where it is suppposed to grab all the items on the first 3 pages and print it out on the console
 ---
